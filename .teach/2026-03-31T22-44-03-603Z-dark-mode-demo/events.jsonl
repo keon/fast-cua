@@ -1,4 +1,0 @@
-{"timestamp":"2026-03-31T22:44:05Z","type":"left_mouse_down","x":209,"y":594,"frontmostApp":"Terminal","frontmostBundleId":"com.apple.Terminal"}
-{"type":"left_mouse_up","frontmostApp":"Terminal","x":209,"timestamp":"2026-03-31T22:44:05Z","y":593,"frontmostBundleId":"com.apple.Terminal"}
-{"type":"left_mouse_down","frontmostApp":"System Settings","x":193,"timestamp":"2026-03-31T22:44:05Z","y":578,"frontmostBundleId":"com.apple.systempreferences"}
-{"type":"left_mouse_up","frontmostApp":"System Settings","x":193,"timestamp":"2026-03-31T22:44:05Z","y":578,"frontmostBundleId":"com.apple.systempreferences"}
