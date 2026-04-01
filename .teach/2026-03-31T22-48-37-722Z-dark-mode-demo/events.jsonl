@@ -1,0 +1,13 @@
+{"x":180,"y":555,"frontmostApp":"Terminal","type":"left_mouse_down","frontmostBundleId":"com.apple.Terminal","timestamp":"2026-03-31T22:48:43Z"}
+{"x":180,"y":554,"frontmostApp":"Terminal","type":"left_mouse_up","frontmostBundleId":"com.apple.Terminal","timestamp":"2026-03-31T22:48:44Z"}
+{"x":175,"y":541,"frontmostApp":"System Settings","type":"left_mouse_down","frontmostBundleId":"com.apple.systempreferences","timestamp":"2026-03-31T22:48:44Z"}
+{"y":541,"x":175,"frontmostApp":"System Settings","timestamp":"2026-03-31T22:48:44Z","type":"left_mouse_up","frontmostBundleId":"com.apple.systempreferences"}
+{"x":163,"y":445,"frontmostApp":"System Settings","type":"left_mouse_down","frontmostBundleId":"com.apple.systempreferences","timestamp":"2026-03-31T22:48:46Z"}
+{"x":163,"y":445,"frontmostApp":"System Settings","type":"left_mouse_up","frontmostBundleId":"com.apple.systempreferences","timestamp":"2026-03-31T22:48:46Z"}
+{"x":568,"y":129,"frontmostApp":"System Settings","type":"left_mouse_down","frontmostBundleId":"com.apple.systempreferences","timestamp":"2026-03-31T22:48:49Z"}
+{"frontmostApp":"System Settings","timestamp":"2026-03-31T22:48:49Z","type":"left_mouse_up","x":568,"frontmostBundleId":"com.apple.systempreferences","y":129}
+{"frontmostApp":"System Settings","timestamp":"2026-03-31T22:48:51Z","type":"left_mouse_down","x":725,"frontmostBundleId":"com.apple.systempreferences","y":114}
+{"frontmostApp":"System Settings","timestamp":"2026-03-31T22:48:51Z","type":"left_mouse_up","x":726,"frontmostBundleId":"com.apple.systempreferences","y":114}
+{"frontmostApp":"System Settings","timestamp":"2026-03-31T22:48:56Z","type":"left_mouse_down","x":2010,"frontmostBundleId":"com.apple.systempreferences","y":939}
+{"frontmostApp":"Terminal","timestamp":"2026-03-31T22:48:56Z","type":"left_mouse_up","x":2010,"frontmostBundleId":"com.apple.Terminal","y":939}
+{"y":939,"type":"key_down","frontmostBundleId":"com.apple.Terminal","frontmostApp":"Terminal","timestamp":"2026-03-31T22:48:57Z","key":"c","modifiers":["ctrl"],"x":2010}

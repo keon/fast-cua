@@ -1,0 +1,3 @@
+{"x":1676,"frontmostApp":"Terminal","frontmostBundleId":"com.apple.Terminal","type":"left_mouse_down","y":774,"timestamp":"2026-03-31T22:35:04Z"}
+{"frontmostApp":"Terminal","frontmostBundleId":"com.apple.Terminal","x":1676,"type":"left_mouse_up","timestamp":"2026-03-31T22:35:04Z","y":774}
+{"frontmostBundleId":"com.apple.Terminal","type":"key_down","timestamp":"2026-03-31T22:35:04Z","modifiers":["ctrl"],"key":"c","x":1676,"y":774,"frontmostApp":"Terminal"}

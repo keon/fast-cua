@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "id": "9bdeaf97-0523-4ce7-b90a-73301067dbb5",
+  "name": "dark-mode-demo",
+  "createdAt": "2026-03-31T22:31:30.260Z",
+  "updatedAt": "2026-03-31T22:31:30.260Z",
+  "task": "Demonstrate how to enable dark mode in macOS settings",
+  "rawEventsPath": ".teach/2026-03-31T22-31-30-260Z-dark-mode-demo/events.jsonl",
+  "entries": []
+}

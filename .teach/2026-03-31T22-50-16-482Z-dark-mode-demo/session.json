@@ -1,0 +1,390 @@
+{
+  "version": 1,
+  "id": "85b42562-739c-451e-bc94-1b94e4be0c45",
+  "name": "dark-mode-demo",
+  "createdAt": "2026-03-31T22:50:16.482Z",
+  "updatedAt": "2026-03-31T22:50:38.550Z",
+  "task": "Demonstrate how to enable dark mode in macOS settings",
+  "summary": "User is in System Settings > Appearance, selecting the Dark theme option.",
+  "rawEventsPath": ".teach/2026-03-31T22-50-16-482Z-dark-mode-demo/events.jsonl",
+  "entries": [
+    {
+      "timestamp": "2026-03-31T22:50:26.818Z",
+      "displayId": 1,
+      "screenshotPath": ".teach/2026-03-31T22-50-16-482Z-dark-mode-demo/frames/0000-1774997426818.png",
+      "screenshotDims": {
+        "width": 1512,
+        "height": 982,
+        "displayWidth": 1512,
+        "displayHeight": 982,
+        "displayId": 1,
+        "originX": 0,
+        "originY": 0
+      },
+      "annotation": {
+        "summary": "User is in System Settings > Wallpaper, with multiple windows open and a focus on the sidebar.",
+        "visibleApp": "System Settings",
+        "userGoalGuess": "Navigate to Appearance to enable dark mode",
+        "importantComponents": [
+          {
+            "name": "sidebar",
+            "role": "sidebar",
+            "locationHint": "left side of System Settings window"
+          },
+          {
+            "name": "Appearance",
+            "role": "list item",
+            "locationHint": "in sidebar near top"
+          },
+          {
+            "name": "Wallpaper",
+            "role": "list item",
+            "locationHint": "in sidebar, currently selected"
+          }
+        ],
+        "confidence": "high"
+      },
+      "userEvents": [
+        {
+          "type": "left_mouse_down",
+          "y": 640,
+          "timestamp": "2026-03-31T22:50:18Z",
+          "x": 200,
+          "frontmostBundleId": "com.apple.Terminal",
+          "frontmostApp": "Terminal"
+        },
+        {
+          "timestamp": "2026-03-31T22:50:18Z",
+          "type": "left_mouse_up",
+          "y": 640,
+          "frontmostBundleId": "com.apple.Terminal",
+          "x": 200,
+          "frontmostApp": "Terminal"
+        },
+        {
+          "timestamp": "2026-03-31T22:50:18Z",
+          "type": "left_mouse_down",
+          "y": 640,
+          "frontmostBundleId": "com.apple.systempreferences",
+          "x": 162,
+          "frontmostApp": "System Settings"
+        },
+        {
+          "timestamp": "2026-03-31T22:50:19Z",
+          "type": "left_mouse_up",
+          "y": 640,
+          "frontmostBundleId": "com.apple.systempreferences",
+          "x": 162,
+          "frontmostApp": "System Settings"
+        },
+        {
+          "timestamp": "2026-03-31T22:50:25Z",
+          "type": "left_mouse_down",
+          "y": 416,
+          "frontmostBundleId": "com.apple.systempreferences",
+          "x": 155,
+          "frontmostApp": "System Settings"
+        },
+        {
+          "timestamp": "2026-03-31T22:50:25Z",
+          "type": "left_mouse_up",
+          "y": 416,
+          "frontmostBundleId": "com.apple.systempreferences",
+          "x": 155,
+          "frontmostApp": "System Settings"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-03-31T22:50:28.650Z",
+      "displayId": 1,
+      "screenshotPath": ".teach/2026-03-31T22-50-16-482Z-dark-mode-demo/frames/0001-1774997428650.png",
+      "screenshotDims": {
+        "width": 1512,
+        "height": 982,
+        "displayWidth": 1512,
+        "displayHeight": 982,
+        "displayId": 1,
+        "originX": 0,
+        "originY": 0
+      },
+      "annotation": {
+        "summary": "User navigated to Accessibility settings in System Settings",
+        "visibleApp": "System Settings",
+        "userGoalGuess": "Enable dark mode in macOS settings",
+        "importantComponents": [
+          {
+            "name": "sidebar",
+            "role": "sidebar",
+            "locationHint": "left side of System Settings window"
+          },
+          {
+            "name": "Accessibility",
+            "role": "tab",
+            "locationHint": "top of sidebar"
+          },
+          {
+            "name": "Appearance",
+            "role": "tab",
+            "locationHint": "above Accessibility in sidebar"
+          }
+        ],
+        "confidence": "high"
+      },
+      "userEvents": []
+    },
+    {
+      "timestamp": "2026-03-31T22:50:30.837Z",
+      "displayId": 1,
+      "screenshotPath": ".teach/2026-03-31T22-50-16-482Z-dark-mode-demo/frames/0002-1774997430837.png",
+      "screenshotDims": {
+        "width": 1512,
+        "height": 982,
+        "displayWidth": 1512,
+        "displayHeight": 982,
+        "displayId": 1,
+        "originX": 0,
+        "originY": 0
+      },
+      "annotation": {
+        "summary": "User is in System Settings under Accessibility, likely navigating toward Appearance to enable dark mode.",
+        "visibleApp": "System Settings",
+        "userGoalGuess": "Enable dark mode in macOS settings",
+        "importantComponents": [
+          {
+            "name": "sidebar",
+            "role": "sidebar",
+            "locationHint": "left side of System Settings"
+          },
+          {
+            "name": "Accessibility item",
+            "role": "list",
+            "locationHint": "top of sidebar"
+          },
+          {
+            "name": "Appearance item",
+            "role": "list",
+            "locationHint": "below Accessibility in sidebar"
+          }
+        ],
+        "confidence": "high"
+      },
+      "userEvents": [
+        {
+          "timestamp": "2026-03-31T22:50:28Z",
+          "type": "left_mouse_down",
+          "y": 472,
+          "frontmostBundleId": "com.apple.systempreferences",
+          "x": 163,
+          "frontmostApp": "System Settings"
+        },
+        {
+          "type": "left_mouse_up",
+          "frontmostApp": "System Settings",
+          "frontmostBundleId": "com.apple.systempreferences",
+          "timestamp": "2026-03-31T22:50:29Z",
+          "x": 163,
+          "y": 472
+        },
+        {
+          "type": "left_mouse_down",
+          "frontmostApp": "System Settings",
+          "frontmostBundleId": "com.apple.systempreferences",
+          "timestamp": "2026-03-31T22:50:29Z",
+          "x": 163,
+          "y": 452
+        },
+        {
+          "type": "left_mouse_up",
+          "frontmostApp": "System Settings",
+          "frontmostBundleId": "com.apple.systempreferences",
+          "timestamp": "2026-03-31T22:50:29Z",
+          "x": 163,
+          "y": 452
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-03-31T22:50:33.248Z",
+      "displayId": 1,
+      "screenshotPath": ".teach/2026-03-31T22-50-16-482Z-dark-mode-demo/frames/0003-1774997433248.png",
+      "screenshotDims": {
+        "width": 1512,
+        "height": 982,
+        "displayWidth": 1512,
+        "displayHeight": 982,
+        "displayId": 1,
+        "originX": 0,
+        "originY": 0
+      },
+      "annotation": {
+        "summary": "User is in System Settings > Appearance, selecting dark mode theme.",
+        "visibleApp": "System Settings",
+        "userGoalGuess": "Enable dark mode in macOS",
+        "importantComponents": [
+          {
+            "name": "Dark theme option",
+            "role": "button",
+            "locationHint": "top row of appearance options"
+          },
+          {
+            "name": "Appearance sidebar",
+            "role": "sidebar",
+            "locationHint": "left side of settings window"
+          },
+          {
+            "name": "Theme color selector",
+            "role": "input",
+            "locationHint": "under Theme section"
+          }
+        ],
+        "confidence": "high"
+      },
+      "userEvents": [
+        {
+          "type": "left_mouse_down",
+          "frontmostApp": "System Settings",
+          "frontmostBundleId": "com.apple.systempreferences",
+          "timestamp": "2026-03-31T22:50:31Z",
+          "x": 578,
+          "y": 130
+        },
+        {
+          "type": "left_mouse_up",
+          "frontmostApp": "System Settings",
+          "frontmostBundleId": "com.apple.systempreferences",
+          "timestamp": "2026-03-31T22:50:31Z",
+          "x": 578,
+          "y": 130
+        },
+        {
+          "type": "left_mouse_down",
+          "frontmostApp": "System Settings",
+          "frontmostBundleId": "com.apple.systempreferences",
+          "timestamp": "2026-03-31T22:50:32Z",
+          "x": 715,
+          "y": 132
+        },
+        {
+          "type": "left_mouse_up",
+          "frontmostApp": "System Settings",
+          "frontmostBundleId": "com.apple.systempreferences",
+          "timestamp": "2026-03-31T22:50:32Z",
+          "x": 715,
+          "y": 132
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-03-31T22:50:36.419Z",
+      "displayId": 1,
+      "screenshotPath": ".teach/2026-03-31T22-50-16-482Z-dark-mode-demo/frames/0004-1774997436419.png",
+      "screenshotDims": {
+        "width": 1512,
+        "height": 982,
+        "displayWidth": 1512,
+        "displayHeight": 982,
+        "displayId": 1,
+        "originX": 0,
+        "originY": 0
+      },
+      "annotation": {
+        "summary": "User is in System Settings > Appearance, selecting dark mode theme.",
+        "visibleApp": "System Settings",
+        "userGoalGuess": "Enable dark mode in macOS",
+        "notableChange": "System interface switches to dark mode",
+        "importantComponents": [
+          {
+            "name": "Theme selection",
+            "role": "toggle",
+            "locationHint": "top section of Appearance panel",
+            "state": "Dark selected"
+          },
+          {
+            "name": "Appearance sidebar item",
+            "role": "sidebar",
+            "locationHint": "left sidebar near top"
+          },
+          {
+            "name": "Dark mode preview",
+            "role": "button",
+            "locationHint": "top row of theme options"
+          }
+        ],
+        "confidence": "high"
+      },
+      "userEvents": []
+    },
+    {
+      "timestamp": "2026-03-31T22:50:38.549Z",
+      "displayId": 1,
+      "screenshotPath": ".teach/2026-03-31T22-50-16-482Z-dark-mode-demo/frames/0005-1774997438549.png",
+      "screenshotDims": {
+        "width": 1512,
+        "height": 982,
+        "displayWidth": 1512,
+        "displayHeight": 982,
+        "displayId": 1,
+        "originX": 0,
+        "originY": 0
+      },
+      "annotation": {
+        "summary": "User is in System Settings > Appearance, selecting the Dark theme option.",
+        "visibleApp": "System Settings",
+        "userGoalGuess": "Enable dark mode in macOS",
+        "importantComponents": [
+          {
+            "name": "Dark theme option",
+            "role": "button",
+            "locationHint": "top row of appearance options in Appearance panel"
+          },
+          {
+            "name": "Appearance sidebar item",
+            "role": "sidebar",
+            "locationHint": "left sidebar, second item from top"
+          },
+          {
+            "name": "Theme color selector",
+            "role": "input",
+            "locationHint": "under Theme section, shows color options"
+          }
+        ],
+        "confidence": "high"
+      },
+      "userEvents": [
+        {
+          "type": "left_mouse_down",
+          "frontmostApp": "System Settings",
+          "frontmostBundleId": "com.apple.systempreferences",
+          "timestamp": "2026-03-31T22:50:37Z",
+          "x": 1907,
+          "y": 967
+        },
+        {
+          "type": "left_mouse_up",
+          "frontmostApp": "Terminal",
+          "frontmostBundleId": "com.apple.Terminal",
+          "timestamp": "2026-03-31T22:50:37Z",
+          "x": 1907,
+          "y": 967
+        },
+        {
+          "type": "left_mouse_down",
+          "frontmostApp": "Terminal",
+          "frontmostBundleId": "com.apple.Terminal",
+          "timestamp": "2026-03-31T22:50:37Z",
+          "x": 1968,
+          "y": 948
+        },
+        {
+          "type": "left_mouse_up",
+          "frontmostApp": "Terminal",
+          "frontmostBundleId": "com.apple.Terminal",
+          "timestamp": "2026-03-31T22:50:37Z",
+          "x": 1968,
+          "y": 948
+        }
+      ]
+    }
+  ]
+}

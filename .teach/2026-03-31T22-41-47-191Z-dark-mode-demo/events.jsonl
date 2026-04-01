@@ -1,0 +1,21 @@
+{"y":964,"type":"left_mouse_down","timestamp":"2026-03-31T22:41:54Z","frontmostApp":"Terminal","frontmostBundleId":"com.apple.Terminal","x":464}
+{"y":964,"type":"left_mouse_up","timestamp":"2026-03-31T22:41:54Z","frontmostApp":"Terminal","frontmostBundleId":"com.apple.Terminal","x":464}
+{"y":445,"type":"left_mouse_down","timestamp":"2026-03-31T22:41:56Z","frontmostApp":"System Settings","frontmostBundleId":"com.apple.systempreferences","x":168}
+{"y":445,"type":"left_mouse_up","timestamp":"2026-03-31T22:41:56Z","frontmostApp":"System Settings","frontmostBundleId":"com.apple.systempreferences","x":168}
+{"y":418,"type":"left_mouse_down","timestamp":"2026-03-31T22:41:56Z","frontmostApp":"System Settings","frontmostBundleId":"com.apple.systempreferences","x":168}
+{"y":418,"type":"left_mouse_up","timestamp":"2026-03-31T22:41:57Z","frontmostApp":"System Settings","frontmostBundleId":"com.apple.systempreferences","x":169}
+{"y":441,"type":"left_mouse_down","timestamp":"2026-03-31T22:41:57Z","frontmostApp":"System Settings","frontmostBundleId":"com.apple.systempreferences","x":159}
+{"timestamp":"2026-03-31T22:41:57Z","y":441,"frontmostBundleId":"com.apple.systempreferences","type":"left_mouse_up","frontmostApp":"System Settings","x":159}
+{"timestamp":"2026-03-31T22:41:59Z","y":132,"frontmostBundleId":"com.apple.systempreferences","type":"left_mouse_down","frontmostApp":"System Settings","x":653}
+{"timestamp":"2026-03-31T22:41:59Z","y":132,"frontmostBundleId":"com.apple.systempreferences","type":"left_mouse_up","frontmostApp":"System Settings","x":653}
+{"timestamp":"2026-03-31T22:42:01Z","y":132,"frontmostBundleId":"com.apple.systempreferences","type":"left_mouse_down","frontmostApp":"System Settings","x":716}
+{"timestamp":"2026-03-31T22:42:01Z","y":132,"frontmostBundleId":"com.apple.systempreferences","type":"left_mouse_up","frontmostApp":"System Settings","x":716}
+{"timestamp":"2026-03-31T22:42:01Z","y":134,"frontmostBundleId":"com.apple.systempreferences","type":"left_mouse_down","frontmostApp":"System Settings","x":721}
+{"timestamp":"2026-03-31T22:42:01Z","y":134,"frontmostBundleId":"com.apple.systempreferences","type":"left_mouse_up","frontmostApp":"System Settings","x":721}
+{"timestamp":"2026-03-31T22:42:04Z","y":139,"frontmostBundleId":"com.apple.systempreferences","type":"left_mouse_down","frontmostApp":"System Settings","x":722}
+{"timestamp":"2026-03-31T22:42:05Z","y":139,"frontmostBundleId":"com.apple.systempreferences","type":"left_mouse_up","frontmostApp":"System Settings","x":722}
+{"timestamp":"2026-03-31T22:42:07Z","y":682,"frontmostBundleId":"com.apple.systempreferences","type":"left_mouse_down","frontmostApp":"System Settings","x":2094}
+{"timestamp":"2026-03-31T22:42:07Z","y":683,"frontmostBundleId":"com.apple.Terminal","type":"left_mouse_up","frontmostApp":"Terminal","x":2095}
+{"timestamp":"2026-03-31T22:42:07Z","y":677,"frontmostBundleId":"com.apple.Terminal","type":"left_mouse_down","frontmostApp":"Terminal","x":2131}
+{"timestamp":"2026-03-31T22:42:07Z","y":677,"frontmostBundleId":"com.apple.Terminal","type":"left_mouse_up","frontmostApp":"Terminal","x":2131}
+{"x":2123,"modifiers":["ctrl"],"type":"key_down","key":"c","y":679,"timestamp":"2026-03-31T22:42:08Z","frontmostApp":"Terminal","frontmostBundleId":"com.apple.Terminal"}
